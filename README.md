@@ -1,6 +1,6 @@
 # Futbol Fikstur Programi
 
-Bir futbol ligi için fikstür hazırlayacak ve puan durumu takibi yapacak bir program hazırlanması istenmektedir. Bu program için;
+Bu program aşağıdaki şartlara göre yapılmıştır;
 + Kullanıcıya sunulan bir form üzerinden ligde bulunacak takım sayısı ve girilen sayıya göre takımların isimleri sisteme girilmelidir.
 + Takım isimleri tamamlandıktan sonra fikstür oluştur formu ile takımların yapacakları müsabakalara yönelik maç programı oluşturulacaktır.
 + Müsabakalar için oluşturulacak fikstür takım sayısı ile ilişkilidir. Ligde 10 takım olduğu varsayıldığında bir takımın diğer 9 takımla maç yapması gerekmektedir. Bu maçlar Ev sahibi Deplasman usulüne göre planlanacaktır. Toplamda 1 takımın yapacağı 9 maç biri kendi sahasında diğeri rakip takımın sahasında olmak üzere 18 maça çıkacaktır.
