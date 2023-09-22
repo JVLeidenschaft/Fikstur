@@ -19,6 +19,6 @@ Bu program aşağıdaki şartlara göre yapılmıştır;
 Projeyi klonlayın ve gerekli bağımlılıkları yükleyin:
 
 ```bash
-git clone https://github.com/JVLeidenschaft/FutbolFiksturProgrami.git
+git clone https://github.com/Vlicvn/FutbolFiksturProgrami.git
 cd FutbolFiksturProgrami
 npm install
