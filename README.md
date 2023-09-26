@@ -20,5 +20,4 @@ Projeyi klonlayın ve gerekli bağımlılıkları yükleyin:
 
 ```bash
 git clone https://github.com/Vlicvn/FutbolFiksturProgrami.git
-cd FutbolFiksturProgrami
-npm install
+
